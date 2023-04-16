@@ -1,6 +1,6 @@
 
 # React Weather App - HootBoard
-This is a simple weather application that displays the current weather conditions for a given location.
+This is a simple ReactJS weather application that displays the current weather conditions for a given location.
 
 ## Live Link
 [https://weatherapp-hootboard.netlify.app/](https://weatherapp-hootboard.netlify.app/) 
