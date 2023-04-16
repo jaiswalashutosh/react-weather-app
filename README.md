@@ -1,5 +1,5 @@
-# react-weather-app
-# Weather App
+
+# React Weather App - HootBoard
 This is a simple weather application that displays the current weather conditions for a given location.
 
 ## Live Link
