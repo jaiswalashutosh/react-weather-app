@@ -93,7 +93,6 @@ const Container = styled.div`
 
   }
 `;
-
 const AppLabel = styled.span`
   color: rgb(65, 168, 241);
   font-size: 18px;

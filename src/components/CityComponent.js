@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import "./style.css";
 
 const CityComponent = (props) => {
   const { setCity, fetchWeather, city } = props;
@@ -48,7 +47,6 @@ const SearchBox = styled.form`
     font-size: 18px;
     border: none;
     outline: none;
-    // font-weight: bold;
     text-align: center;
   }
   & button {

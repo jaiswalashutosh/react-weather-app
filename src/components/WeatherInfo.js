@@ -92,5 +92,4 @@ const WeatherInfoContainer = styled.div`
   align-items: center;
   flex-wrap: wrap;
   margin-top: 30px;
-  // border: 1px solid grey;
 `;
