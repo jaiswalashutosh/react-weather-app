@@ -44,6 +44,12 @@ https://openweathermap.org/current
 
 - Method: GET
 - URL: `https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}`
+##Technology Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- ReactJS
 ## Libraries used
 
 - styled-components
